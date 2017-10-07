@@ -5,17 +5,14 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
+  background-image: url("bg.jpg");
+ background-color: #000000;
   font-family: "Open Sans", Arial, serif;
   line-height: 1.8;
   font-size: 20px;
-  background: #f9f7f7;
+
   font-weight: 300;
 }
 
